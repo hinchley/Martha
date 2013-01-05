@@ -10,6 +10,9 @@ The following code snippet demonstrates how to use Martha. The code assumes the 
     $martha = new Martha();
     echo $martha->go($input);
 
+## Requirements
+Martha requires PHP 5.4 or later.
+
 ## Syntax
 The following sections provide an overview of the Martha syntax.
 
